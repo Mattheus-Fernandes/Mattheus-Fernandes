@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=mattheus-fernandes&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
----
 
 ### 👨‍💻 Sobre Mim
 
@@ -20,6 +19,7 @@
 
 > ☁️ **Atualmente**, estou aprofundando meus conhecimentos em **Cloud Computing** e **AWS**, explorando temas de deploy, infraestrutura, escalabilidade e alta disponibilidade.
 
+> 🎓 **Estudante do 7º período de Engenharia de Software**
 ---
 
 ### 📬 Contato
@@ -32,6 +32,22 @@
     <img src="https://img.shields.io/badge/Yahoo%20Mail-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+> **Right Time** — *Em desenvolvimento 🚧*  
+>   
+> Sistema para gerenciamento de clientes, agendamentos e compromissos, desenvolvido para centralizar a organização da agenda e automatizar o processo de confirmação de atendimentos.  
+>   
+> O projeto está atualmente em desenvolvimento, com foco em APIs REST, arquitetura backend, persistência de dados e integração com serviços de automação e notificações.  
+>   
+> 🛠️ **Stack:** `Java` `Quarkus` `PostgreSQL` `Junit` `Mockito` `Docker` `n8n` `Swagger`
+> 
+> 🔗 [Ver projeto no GitHub](https://github.com/mattheus-fernandes/right-time)
+
+---
 
 ---
 
@@ -105,8 +121,16 @@
   <img src="https://streak-stats.demolab.com?user=mattheus-fernandes&theme=tokyonight&locale=pt_BR&hide_border=false" alt="Sequência de Commits" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source  srcset="https://raw.githubusercontent.com/mattheus-fernandes/mattheus-fernandes/output/github-snake-dark.svg">
+    <source srcset="https://raw.githubusercontent.com/mattheus-fernandes/mattheus-fernandes/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/mattheus-fernandes/mattheus-fernandes/output/github-snake-dark.svg">
+  </picture>
+</p>
 
+
+---
 
 ### 🎵 Tocando Agora
 
@@ -122,12 +146,3 @@
   </a>
 </p>
 
----
-
-### 🐍 Snake Game (Contribuições)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mattheus-fernandes/mattheus-fernandes/output/github-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
